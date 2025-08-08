@@ -17,6 +17,8 @@ A colorful and fun memory puzzle game built using **Python** and **Pygame**. Mat
 
 ## 📷 Screenshots
 <img width="981" height="790" alt="Screenshot 2025-08-08 203416" src="https://github.com/user-attachments/assets/b3be3c68-dca9-479c-a5bc-c53b459cefc9" />
+<img width="994" height="783" alt="Screenshot 2025-08-08 203447" src="https://github.com/user-attachments/assets/7085ea19-8849-4091-b15b-49b48d2e6546" />
+
 
 
 
